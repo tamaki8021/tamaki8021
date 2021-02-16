@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![](https://raw.githubusercontent.com/tamaki8021/tamaki8021/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?tamaki8021)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apitamaki8021)](https://github.com/anuraghazra/github-readme-stats)
