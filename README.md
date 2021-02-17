@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![](https://raw.githubusercontent.com/tamaki8021/tamaki8021/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamaki8021&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
