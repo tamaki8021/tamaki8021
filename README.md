@@ -6,10 +6,9 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/tamaki8021/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tamo38570240)](https://twitter.com/tamo38570240)
 [![Instagram Badege](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/tamoshi2/)
-[![Feacebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/TamakiHibiki2002)
-[![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/)
-
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](spotify:playlist:5Bzvs88Ecmr44RhsxokURI)
+[![Feacebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&&logo=facebook&logoColor=white)](https://www.facebook.com/TamakiHibiki2002)
+[![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&flat&&logo=Qiita&logoColor=white)](https://qiita.com/)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=flat&&logo=spotify&logoColor=white)](spotify:playlist:5Bzvs88Ecmr44RhsxokURI)
 
 
 
