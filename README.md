@@ -11,7 +11,10 @@
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=flat&&logo=spotify&logoColor=white)](spotify:playlist:5Bzvs88Ecmr44RhsxokURI)
 
 
-
+<a href="https://github.com/users/tamaki8021/projects/1/views/1">
+   DOREタスク管理
+</a>
+  
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **College Student in Tokyo🎓 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
@@ -44,5 +47,4 @@ Here are some ideas to get you started:
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tamaki8021&layout=compact&theme=material-palenight" />
 </a>
-
 
