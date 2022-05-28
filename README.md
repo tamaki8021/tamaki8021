@@ -7,7 +7,18 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 </h1>
 
-#### 
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tamaki8021&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tamaki8021&layout=compact&theme=material-palenight" />
+</a>
+
+
 <!-- [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https://github.com/Defcon27/)](https://github.com/tamaki8021/)  -->
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tamo38570240)](https://twitter.com/tamo38570240) -->
 <!-- [![Instagram Badege](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/tom47310/) -->
@@ -15,19 +26,7 @@
 <!-- [![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=Qiita&logoColor=white)](https://qiita.com/tamaki8021) -->
 <!-- [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=flat&&logo=spotify&logoColor=white)](spotify:playlist:5Bzvs88Ecmr44RhsxokURI) -->
 
-<div style="display: flex;">
-  
 ![Metrics](https://metrics.lecoq.io/tamaki8021?template=classic&isocalendar=1&languages=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FTokyo)
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tamaki8021&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tamaki8021&layout=compact&theme=material-palenight" />
-  </a>
-</div>
 
 
 
