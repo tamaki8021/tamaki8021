@@ -1,6 +1,11 @@
 <!-- ### Hi there 👋 -->
 
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Howdy!, 📬 Find me at<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+<h1> 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  Howdy!, 📬 Find me at
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+</h1>
 
 #### 
 <!-- [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https://github.com/Defcon27/)](https://github.com/tamaki8021/)  -->
@@ -10,11 +15,20 @@
 <!-- [![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=Qiita&logoColor=white)](https://qiita.com/tamaki8021) -->
 <!-- [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=flat&&logo=spotify&logoColor=white)](spotify:playlist:5Bzvs88Ecmr44RhsxokURI) -->
 
-
-![Metrics](https://metrics.lecoq.io/tamaki8021?template=classic&isocalendar=1&languages=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FTokyo)
+<div style="display: flex;">
   
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **College Student in Tokyo🎓 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+![Metrics](https://metrics.lecoq.io/tamaki8021?template=classic&isocalendar=1&languages=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FTokyo)
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tamaki8021&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tamaki8021&layout=compact&theme=material-palenight" />
+  </a>
+</div>
+
 
 
 <!--
@@ -32,19 +46,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-[![](https://raw.githubusercontent.com/tamaki8021/tamaki8021/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
--->
 
+<!-- [![](https://raw.githubusercontent.com/tamaki8021/tamaki8021/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tamaki8021&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tamaki8021&layout=compact&theme=material-palenight" />
-</a>
 
 **************************************
 
