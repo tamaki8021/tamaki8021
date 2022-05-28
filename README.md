@@ -3,11 +3,11 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Howdy!, I am <a href="https://github.com/tamaki8021">Hibiki</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 
 #### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https://github.com/Defcon27/)](https://github.com/tamaki8021/) 
+<!-- [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https://github.com/Defcon27/)](https://github.com/tamaki8021/)  -->
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tamo38570240)](https://twitter.com/tamo38570240) -->
 <!-- [![Instagram Badege](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/tom47310/) -->
 <!-- [![Feacebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&&logo=facebook&logoColor=white)](https://www.facebook.com/TamakiHibiki2002) -->
-[![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=Qiita&logoColor=white)](https://qiita.com/tamaki8021)
+<!-- [![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=Qiita&logoColor=white)](https://qiita.com/tamaki8021) -->
 <!-- [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=flat&&logo=spotify&logoColor=white)](spotify:playlist:5Bzvs88Ecmr44RhsxokURI) -->
 
 
