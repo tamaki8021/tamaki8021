@@ -8,10 +8,7 @@
 </h1>
 
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tamaki8021&layout=compact&theme=material-palenight" />
-</a> -->
+
 
 
 <!-- [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https://github.com/Defcon27/)](https://github.com/tamaki8021/)  -->
@@ -22,16 +19,24 @@ Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats
 <!-- [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=flat&&logo=spotify&logoColor=white)](spotify:playlist:5Bzvs88Ecmr44RhsxokURI) -->
 
 <!-- <img src="/github-metrics.svg" alt="Metrics" width="100%"> -->
-<div>
-  <img align="center" src="/github-metrics.svg" alt="Metrics" width="50%">
-  <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="img" >
+<table>
+  <tr>
+    <td valign="top"><img src="/github-metrics.svg" alt="Metrics" width="100%" /></td>
+  </tr>
+</table>
+
+<div style="display: flex;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tamaki8021&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tamaki8021&layout=compact&theme=material-palenight" height="190px" />
+  </a>
 </div>
 
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tamaki8021&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" width="100%" />
-</a>
   
 <!--
 **tamaki8021/tamaki8021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
