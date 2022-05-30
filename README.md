@@ -25,7 +25,7 @@
   </tr>
 </table>
 
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tamaki8021&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
   </a>
