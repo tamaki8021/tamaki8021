@@ -23,12 +23,14 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          # Options
           user: tamaki8021
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tokyo
           plugin_habits: yes
-          plugin_habits_charts_type: classic
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: chartist
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
@@ -39,6 +41,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_ignored: html, css
+          plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
@@ -47,5 +50,5 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_topics: yes
           plugin_topics_limit: 15
-          plugin_topics_mode: starred
+          plugin_topics_mode: icons
           plugin_topics_sort: stars
