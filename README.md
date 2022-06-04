@@ -59,11 +59,6 @@ Here are some ideas to get you started:
 
 **************************************
 
-## 自由欄 
-
-### タスク・プロジェクト管理
-- <a href="https://github.com/users/tamaki8021/projects/1/views/1">DOREプロジェクト管理</a>
-
 ### コミットメッセージ
 <ul>
    <li> 🎉 <code>:tada:</code> 初めてのコミット（Initial Commit）</li>
