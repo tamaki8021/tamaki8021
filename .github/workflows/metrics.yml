@@ -16,7 +16,7 @@ jobs:
 
           user: tamaki8021
           template: classic
-          base: header
+          base: ""
           config_timezone: Asia/Tokyo
           plugin_habits: yes
           plugin_habits_charts: yes
