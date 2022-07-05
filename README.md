@@ -6,17 +6,15 @@
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
-<p align="left">
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/tamaki8021/tamaki8021/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Summary" /></a>
-<a href="https://github.com/tamaki8021"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaki8021&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=material-palenight&hide=css,html,scss&layout=compact" alt="Top Languages" /></a>
-</p>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/tamaki8021/tamaki8021/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Summary" width="100%" /></a>
+
 
 <p align="left">
 <a href="http://www.github.com/tamaki8021"><img src="https://github-readme-stats.vercel.app/api?username=tamaki8021&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tamaki8021's GitHub stats" /></a>
 <a href="http://www.github.com/tamaki8021"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tamaki8021&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
-
+<a href="https://github.com/tamaki8021"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaki8021&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=material-palenight&hide=css,html,scss&layout=compact" alt="Top Languages" width="100%" /></a>
   
 ### Skills
 
