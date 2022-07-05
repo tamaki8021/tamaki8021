@@ -1,60 +1,30 @@
-<!-- ### Hi there 👋 -->
-
 <h1> 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
   Howdy!, 📬 Find me at
-<!--   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="40px"> -->
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 </h1>
 
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
+<p align="left">
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/tamaki8021/tamaki8021/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Summary" width="63%" /></a>
+<a href="https://github.com/tamaki8021"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaki8021&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=material-palenight&hide=css,html,scss&layout=compact" alt="Top Languages" /></a>
+</p>
 
-
-
-<!-- [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https://github.com/Defcon27/)](https://github.com/tamaki8021/)  -->
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tamo38570240)](https://twitter.com/tamo38570240) -->
-<!-- [![Instagram Badege](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/tom47310/) -->
-<!-- [![Feacebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&&logo=facebook&logoColor=white)](https://www.facebook.com/TamakiHibiki2002) -->
-<!-- [![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=Qiita&logoColor=white)](https://qiita.com/tamaki8021) -->
-<!-- [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=flat&&logo=spotify&logoColor=white)](spotify:playlist:5Bzvs88Ecmr44RhsxokURI) -->
-
-<!-- <img src="/github-metrics.svg" alt="Metrics" width="100%"> -->
-<table>
-  <tr>
-    <td valign="top"><img src="/github-metrics.svg" alt="Metrics" width="100%" /></td>
-  </tr>
-</table>
-
-<div style="display: flex; flex-direction: row;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tamaki8021&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tamaki8021&layout=compact&theme=material-palenight&langs_count=8&hide=css,html" height="190px" />
-  </a>
-</div>
+<p align="left">
+<a href="http://www.github.com/tamaki8021"><img src="https://github-readme-stats.vercel.app/api?username=tamaki8021&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tamaki8021's GitHub stats" /></a>
+<a href="http://www.github.com/tamaki8021"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tamaki8021&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
 
 
   
-<!--
-**tamaki8021/tamaki8021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!-- [![](https://raw.githubusercontent.com/tamaki8021/tamaki8021/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+<p align="left">
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
 
 **************************************
