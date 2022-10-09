@@ -26,8 +26,8 @@
 
 <img src="/github-metrics.svg" alt="Metrics">
 
+<!--
 **************************************
-
 ### コミットメッセージ
 <ul>
    <li> 🎉 <code>:tada:</code> 初めてのコミット（Initial Commit）</li>
@@ -44,6 +44,5 @@
    <li> 🗑️  <code>:wastebasket:</code> 削除（Removal）</li>
    <li> 🚧  <code>:construction:</code> WIP(Work In Progress)</li>
 </ul>
-
-
 **************************************
+-->
