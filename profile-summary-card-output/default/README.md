@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/tamaki8021/tamaki8021/main/profile-summary-card-output/default/4-productive-time.svg)
+```
+
+    
