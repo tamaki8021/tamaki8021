@@ -23,6 +23,9 @@
 
 <img src="/github-metrics.svg" alt="Metrics">
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 <!--
 **************************************
 ### コミットメッセージ
