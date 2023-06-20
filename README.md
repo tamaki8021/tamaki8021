@@ -21,8 +21,8 @@
 <img src="/github-metrics.svg" alt="Metrics">
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/DL44XER" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.45&b=3.48&i=3.27&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 6/19/2023, 12:48:07 AM
+<a href="https://lapras.com/public/DL44XER" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.45&b=3.48&i=3.26&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 6/20/2023, 12:46:17 AM
 <!--END_SECTION:lapras-card-->
 
 <!--
