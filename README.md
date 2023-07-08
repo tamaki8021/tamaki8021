@@ -21,8 +21,8 @@
 <img src="/github-metrics.svg" alt="Metrics">
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/DL44XER" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.45&b=3.48&i=3.26&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 7/7/2023, 12:57:18 AM
+<a href="https://lapras.com/public/DL44XER" target="_blank" rel="noopener noreferrer"><img  alt="DL44XERのLAPRASでのスコアは次の通りです: エンジニアリング: 3.45 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.26 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.45&b=3.48&i=3.26&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 7/8/2023, 12:55:38 AM
 <!--END_SECTION:lapras-card-->
 
 <!--
